@@ -5,8 +5,7 @@
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
-
-Contents:
+just tes
 
 .. toctree::
    :maxdepth: 2
